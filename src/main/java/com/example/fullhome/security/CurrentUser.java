@@ -1,21 +1,17 @@
-package am.itspace.companyEmployeeSpring.security;
+package com.example.fullhome.security;
 
-import am.itspace.companyEmployeeSpring.entity.Employee;
+import com.example.fullhome.entity.User;
 import org.springframework.security.core.authority.AuthorityUtils;
 
 
 public class CurrentUser extends org.springframework.security.core.userdetails.User {
-
-    private Employee employee;
-
-    public CurrentUser(Employee employee) {
-        super(employee.getEmail(), employee.getPassword(),
-                AuthorityUtils.createAuthorityList(employee.getRole().name()));
-        this.employee = employee;
+    private User user;
+    public CurrentUser(User user) {
+        super(user.getEmail(), user.getPassword(),
+                AuthorityUtils.createAuthorityList(user.getRole().name()));
+        this.user = user;
     }
-
-    public Employee getEmployee() {
-
-        return employee;
+    public User getUser() {
+        return user;
     }
 }

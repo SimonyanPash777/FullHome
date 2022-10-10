@@ -5,19 +5,24 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import javax.persistence.*;
 import java.time.Instant;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
+@Entity
+public class Comment {
 
-public class Comments {
-
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
     private String comment;
+    @ManyToOne
     private User user;
+    @ManyToOne
     private Tool tool;
-    private Instant craetedAt;
+    private Instant createdAt;
 
 }
