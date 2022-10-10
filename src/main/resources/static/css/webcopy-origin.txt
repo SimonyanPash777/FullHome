@@ -1,0 +1,2980 @@
+Uri: https://cdn.searchenginejournal.com/wp-content/uploads/2019/03/shutterstock_1338315902.png
+File Name: C:\Downloaded Web Sites\codervent.com\wp-content\uploads\2019\03\shutterstock_1338315902.png
+Content Type: image/png
+
+Uri: https://cdn.tiny.cloud/1/no-origin/tinymce/5.10.5-131/tinymce.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\1\no-origin\tinymce\5.10.5-131\tinymce.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/app-chat-box.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\app-chat-box.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/app-contact-list.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\app-contact-list.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/app-emailbox.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\app-emailbox.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/app-emailread.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\app-emailread.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/app-file-manager.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\app-file-manager.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/app-fullcalender.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\app-fullcalender.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/app-invoice.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\app-invoice.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/app-to-do.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\app-to-do.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/css/app.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\css\app.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/css/bootstrap-extended.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\css\bootstrap-extended.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/css/dark-theme.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\css\dark-theme.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/css/header-colors.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\css\header-colors.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/css/icons.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\css\icons.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/css/pace.min.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\css\pace.min.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/css/semi-dark.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\css\semi-dark.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ad.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ad.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ae.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ae.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/af.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\af.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ag.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ag.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ai.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ai.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/al.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\al.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/am.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\am.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ao.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ao.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/aq.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\aq.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ar.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ar.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/as.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\as.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/at.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\at.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/au.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\au.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/aw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\aw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ax.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ax.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/az.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\az.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ba.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ba.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bb.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bb.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bd.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bd.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/be.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\be.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bi.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bi.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bj.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bj.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bo.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bo.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bq.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bq.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/br.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\br.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bs.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bs.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/by.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\by.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/bz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\bz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ca.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ca.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cd.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cd.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ch.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ch.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ci.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ci.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ck.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ck.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/co.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\co.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cx.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cx.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cy.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cy.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/cz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\cz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/de.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\de.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/dj.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\dj.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/dk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\dk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/dm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\dm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/do.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\do.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/dz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\dz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ec.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ec.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ee.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ee.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/eg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\eg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/eh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\eh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/er.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\er.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/es-ct.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\es-ct.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/es.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\es.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/et.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\et.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/eu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\eu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/fi.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\fi.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/fj.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\fj.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/fk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\fk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/fm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\fm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/fo.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\fo.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/fr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ga.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ga.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gb-eng.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gb-eng.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gb-nir.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gb-nir.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gb-sct.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gb-sct.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gb-wls.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gb-wls.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gb.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gb.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gd.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gd.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ge.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ge.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gi.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gi.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gp.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gp.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gq.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gq.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gs.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gs.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/gy.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\gy.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/hk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\hk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/hm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\hm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/hn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\hn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/hr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\hr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ht.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ht.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/hu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\hu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/id.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\id.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ie.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ie.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/il.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\il.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/im.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\im.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/in.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\in.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/io.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\io.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/iq.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\iq.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ir.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ir.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/is.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\is.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/it.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\it.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/je.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\je.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/jm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\jm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/jo.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\jo.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/jp.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\jp.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ke.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ke.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/kg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\kg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/kh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\kh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ki.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ki.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/km.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\km.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/kn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\kn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/kp.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\kp.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/kr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\kr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/kw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\kw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ky.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ky.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/kz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\kz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/la.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\la.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/lb.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\lb.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/lc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\lc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/li.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\li.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/lk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\lk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/lr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\lr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ls.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ls.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/lt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\lt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/lu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\lu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/lv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\lv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ly.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ly.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ma.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ma.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/md.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\md.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/me.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\me.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ml.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ml.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mo.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mo.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mp.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mp.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mq.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mq.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ms.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ms.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mx.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mx.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/my.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\my.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/mz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\mz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/na.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\na.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/nc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\nc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ne.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ne.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/nf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\nf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ng.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ng.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ni.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ni.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/nl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\nl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/no.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\no.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/np.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\np.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/nr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\nr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/nu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\nu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/nz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\nz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/om.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\om.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pa.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pa.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pe.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pe.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ph.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ph.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ps.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ps.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/pw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\pw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/py.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\py.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/qa.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\qa.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/re.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\re.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ro.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ro.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/rs.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\rs.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ru.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ru.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/rw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\rw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sa.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sa.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sb.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sb.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sd.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sd.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/se.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\se.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/si.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\si.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sj.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sj.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/so.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\so.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ss.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ss.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/st.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\st.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sx.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sx.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sy.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sy.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/sz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\sz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/td.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\td.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/th.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\th.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tj.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tj.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/to.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\to.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/tz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\tz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ua.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ua.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ug.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ug.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/um.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\um.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/un.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\un.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/us.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\us.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/uy.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\uy.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/uz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\uz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/va.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\va.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/vc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\vc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ve.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ve.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/vg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\vg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/vi.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\vi.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/vn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\vn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/vu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\vu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/wf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\wf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ws.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ws.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/ye.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\ye.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/yt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\yt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/za.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\za.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/zm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\zm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/1x1/zw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\1x1\zw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ad.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ad.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ae.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ae.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/af.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\af.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ag.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ag.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ai.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ai.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/al.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\al.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/am.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\am.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ao.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ao.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/aq.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\aq.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ar.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ar.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/as.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\as.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/at.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\at.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/au.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\au.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/aw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\aw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ax.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ax.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/az.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\az.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ba.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ba.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bb.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bb.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bd.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bd.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/be.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\be.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bi.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bi.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bj.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bj.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bo.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bo.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bq.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bq.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/br.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\br.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bs.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bs.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/by.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\by.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/bz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\bz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ca.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ca.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cd.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cd.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ch.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ch.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ci.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ci.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ck.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ck.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/co.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\co.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cx.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cx.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cy.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cy.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/cz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\cz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/de.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\de.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/dj.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\dj.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/dk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\dk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/dm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\dm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/do.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\do.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/dz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\dz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ec.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ec.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ee.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ee.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/eg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\eg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/eh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\eh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/er.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\er.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/es-ct.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\es-ct.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/es.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\es.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/et.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\et.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/eu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\eu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/fi.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\fi.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/fj.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\fj.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/fk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\fk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/fm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\fm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/fo.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\fo.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/fr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ga.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ga.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gb-eng.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gb-eng.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gb-nir.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gb-nir.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gb-sct.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gb-sct.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gb-wls.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gb-wls.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gb.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gb.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gd.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gd.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ge.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ge.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gi.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gi.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gp.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gp.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gq.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gq.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gs.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gs.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/gy.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\gy.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/hk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\hk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/hm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\hm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/hn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\hn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/hr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\hr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ht.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ht.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/hu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\hu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/id.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\id.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ie.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ie.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/il.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\il.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/im.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\im.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/in.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\in.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/io.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\io.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/iq.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\iq.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ir.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ir.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/is.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\is.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/it.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\it.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/je.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\je.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/jm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\jm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/jo.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\jo.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/jp.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\jp.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ke.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ke.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/kg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\kg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/kh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\kh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ki.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ki.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/km.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\km.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/kn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\kn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/kp.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\kp.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/kr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\kr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/kw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\kw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ky.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ky.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/kz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\kz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/la.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\la.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/lb.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\lb.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/lc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\lc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/li.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\li.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/lk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\lk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/lr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\lr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ls.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ls.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/lt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\lt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/lu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\lu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/lv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\lv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ly.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ly.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ma.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ma.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/md.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\md.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/me.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\me.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ml.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ml.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mo.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mo.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mp.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mp.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mq.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mq.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ms.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ms.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mx.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mx.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/my.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\my.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/mz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\mz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/na.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\na.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/nc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\nc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ne.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ne.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/nf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\nf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ng.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ng.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ni.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ni.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/nl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\nl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/no.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\no.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/np.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\np.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/nr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\nr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/nu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\nu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/nz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\nz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/om.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\om.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pa.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pa.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pe.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pe.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ph.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ph.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ps.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ps.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/pw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\pw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/py.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\py.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/qa.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\qa.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/re.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\re.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ro.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ro.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/rs.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\rs.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ru.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ru.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/rw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\rw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sa.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sa.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sb.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sb.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sd.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sd.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/se.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\se.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sh.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sh.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/si.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\si.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sj.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sj.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/so.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\so.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ss.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ss.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/st.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\st.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sx.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sx.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sy.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sy.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/sz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\sz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/td.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\td.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/th.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\th.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tj.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tj.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tk.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tk.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tl.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tl.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/to.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\to.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tr.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tr.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tv.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tv.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/tz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\tz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ua.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ua.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ug.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ug.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/um.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\um.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/un.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\un.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/us.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\us.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/uy.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\uy.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/uz.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\uz.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/va.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\va.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/vc.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\vc.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ve.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ve.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/vg.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\vg.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/vi.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\vi.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/vn.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\vn.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/vu.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\vu.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/wf.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\wf.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ws.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ws.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/ye.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\ye.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/yt.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\yt.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/za.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\za.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/zm.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\zm.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/flags/4x3/zw.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\flags\4x3\zw.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/fonts/LineIcons.eot
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\fonts\LineIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/fonts/LineIcons.svg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\fonts\LineIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/fonts/LineIcons.ttf
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\fonts\LineIcons.ttf
+Content Type: font/ttf
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/fonts/LineIcons.woff
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\fonts\LineIcons.woff
+Content Type: font/woff
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/fonts/LineIcons.woff2
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\fonts\LineIcons.woff2
+Content Type: font/woff2
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-1.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-1.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-10.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-10.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-11.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-11.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-15.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-15.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-16.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-16.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-17.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-17.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-2.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-2.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-20.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-20.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-23.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-23.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-24.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-24.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-25.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-25.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-3.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-3.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-4.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-4.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-5.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-5.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-6.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-6.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-7.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-7.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-8.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-8.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/avatars/avatar-9.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\avatars\avatar-9.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/errors-images/505-error.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\errors-images\505-error.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/01.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\01.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/02.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\02.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/03.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\03.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/04.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\04.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/05.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\05.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/06.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\06.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/07.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\07.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/08.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\08.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/09.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\09.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/10.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\10.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/11.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\11.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/12.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\12.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/13.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\13.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/14.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\14.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/15.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\15.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/gallery/16.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\gallery\16.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/icons/chair.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\icons\chair.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/icons/forgot-2.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\icons\forgot-2.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/icons/headphones.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\icons\headphones.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/icons/idea.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\icons\idea.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/icons/shoes.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\icons\shoes.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/icons/tshirt.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\icons\tshirt.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/icons/user-interface.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\icons\user-interface.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/icons/user.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\icons\user.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/icons/watch.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\icons\watch.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/login-images/bg-forgot-password.jpg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\login-images\bg-forgot-password.jpg
+Content Type: image/jpeg
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/login-images/bg-lock-screen.jpg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\login-images\bg-lock-screen.jpg
+Content Type: image/jpeg
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/login-images/bg-login-img.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\login-images\bg-login-img.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/login-images/forgot-password-frent-img.jpg
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\login-images\forgot-password-frent-img.jpg
+Content Type: image/jpeg
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/logo-icon.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\logo-icon.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/logo-img.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\logo-img.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/01.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\01.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/02.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\02.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/03.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\03.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/04.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\04.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/05.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\05.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/06.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\06.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/07.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\07.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/08.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\08.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/09.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\09.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/10.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\10.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/11.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\11.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/12.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\12.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/13.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\13.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/14.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\14.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/15.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\15.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/16.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\16.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/17.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\17.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/18.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\18.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/images/products/19.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\images\products\19.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/js/app.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\js\app.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/js/dashboard-analytics.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\js\dashboard-analytics.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/js/dashboard-digital-marketing.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\js\dashboard-digital-marketing.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/js/dashboard-eCommerce.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\js\dashboard-eCommerce.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/js/dashboard-human-resources.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\js\dashboard-human-resources.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/js/index.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\js\index.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/js/pace.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\js\pace.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/js/widgets.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\js\widgets.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/apexcharts-bundle/js/apex-custom.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\apexcharts-bundle\js\apex-custom.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/apexcharts-bundle/js/apexcharts.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\apexcharts-bundle\js\apexcharts.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.min.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/bootstrap-material-datetimepicker/js/moment.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\bootstrap-material-datetimepicker\js\moment.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/chartjs/chart.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\chartjs\chart.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/chartjs/custom-script.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\chartjs\custom-script.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/datatable/css/dataTables.bootstrap5.min.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\datatable\css\dataTables.bootstrap5.min.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/datatable/js/dataTables.bootstrap5.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\datatable\js\dataTables.bootstrap5.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/datatable/js/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\datatable\js\jquery.dataTables.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/datetimepicker/css/classic.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\datetimepicker\css\classic.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/datetimepicker/css/classic.date.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\datetimepicker\css\classic.date.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/datetimepicker/css/classic.time.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\datetimepicker\css\classic.time.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/datetimepicker/js/legacy.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\datetimepicker\js\legacy.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/datetimepicker/js/picker.date.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\datetimepicker\js\picker.date.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/datetimepicker/js/picker.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\datetimepicker\js\picker.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/datetimepicker/js/picker.time.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\datetimepicker\js\picker.time.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/Drag-And-Drop/dist/imageuploadify.min.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/Drag-And-Drop/dist/imageuploadify.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fancy-file-uploader/fancy_fileupload.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fancy-file-uploader\fancy_fileupload.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fancy-file-uploader/fancy_microphone.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fancy-file-uploader\fancy_microphone.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fancy-file-uploader/fancy_okay.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fancy-file-uploader\fancy_okay.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fancy-file-uploader/fancy_remove.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fancy-file-uploader\fancy_remove.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fancy-file-uploader/fancy_upload.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fancy-file-uploader\fancy_upload.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fancy-file-uploader/fancy_webcam.png
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fancy-file-uploader\fancy_webcam.png
+Content Type: image/png
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fancy-file-uploader/jquery.fancy-fileupload.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fancy-file-uploader\jquery.fancy-fileupload.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fancy-file-uploader/jquery.fileupload.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fancy-file-uploader\jquery.fileupload.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fancy-file-uploader/jquery.iframe-transport.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fancy-file-uploader\jquery.iframe-transport.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fancy-file-uploader/jquery.ui.widget.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fancy-file-uploader\jquery.ui.widget.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fullcalendar/css/main.min.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fullcalendar\css\main.min.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/fullcalendar/js/main.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\fullcalendar\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/css/highcharts.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\css\highcharts.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/accessibility.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\accessibility.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/cylinder.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\cylinder.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/export-data.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\export-data.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/exporting.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\exporting.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/funnel3d.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\funnel3d.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/highcharts-3d.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\highcharts-3d.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/highcharts-custom.script.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\highcharts-custom.script.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/highcharts-more.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\highcharts-more.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/highcharts.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\highcharts.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/solid-gauge.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\solid-gauge.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/highcharts/js/variable-pie.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\highcharts\js\variable-pie.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/input-tags/css/tagsinput.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\input-tags\css\tagsinput.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/input-tags/js/tagsinput.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\input-tags\js\tagsinput.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/jquery-knob/excanvas.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\jquery-knob\excanvas.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/jquery-knob/jquery.knob.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\jquery-knob\jquery.knob.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/jquery.easy-pie-chart/jquery.easypiechart.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\jquery.easy-pie-chart\jquery.easypiechart.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/notifications/css/lobibox.min.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\notifications\css\lobibox.min.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/notifications/js/lobibox.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\notifications\js\lobibox.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/notifications/js/notification-custom-script.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\notifications\js\notification-custom-script.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/notifications/js/notifications.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\notifications\js\notifications.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/peity/jquery.peity.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\peity\jquery.peity.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/perfect-scrollbar/css/perfect-scrollbar.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\perfect-scrollbar\css\perfect-scrollbar.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/perfect-scrollbar/js/perfect-scrollbar.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\perfect-scrollbar\js\perfect-scrollbar.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/select2/css/select2-bootstrap4.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\select2\css\select2-bootstrap4.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/select2/css/select2.min.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/select2/js/select2.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\select2\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/simplebar/css/simplebar.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\simplebar\css\simplebar.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/simplebar/js/simplebar.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\simplebar\js\simplebar.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/smart-wizard/css/smart_wizard_all.min.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\smart-wizard\css\smart_wizard_all.min.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/smart-wizard/js/jquery.smartWizard.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\smart-wizard\js\jquery.smartWizard.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/sparkline-charts/jquery.sparkline.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\sparkline-charts\jquery.sparkline.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/vectormap/jquery-jvectormap-2.0.2.css
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\vectormap\jquery-jvectormap-2.0.2.css
+Content Type: text/css
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/vectormap/jquery-jvectormap-2.0.2.min.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\vectormap\jquery-jvectormap-2.0.2.min.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/assets/plugins/vectormap/jquery-jvectormap-world-mill-en.js
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\assets\plugins\vectormap\jquery-jvectormap-world-mill-en.js
+Content Type: application/javascript
+
+Uri: https://codervent.com/rukada/demo/horizontal/authentication-forgot-password.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\authentication-forgot-password.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/authentication-lock-screen.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\authentication-lock-screen.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/authentication-reset-password.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\authentication-reset-password.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/authentication-signin-with-header-footer.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\authentication-signin-with-header-footer.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/authentication-signin.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\authentication-signin.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/authentication-signup-with-header-footer.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\authentication-signup-with-header-footer.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/authentication-signup.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\authentication-signup.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/charts-apex-chart.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\charts-apex-chart.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/charts-chartjs.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\charts-chartjs.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/charts-highcharts.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\charts-highcharts.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-accordions.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-accordions.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-alerts.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-alerts.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-avtars-chips.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-avtars-chips.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-buttons.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-buttons.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-cards.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-cards.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-list-groups.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-list-groups.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-media-object.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-media-object.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-modals.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-modals.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-navbar.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-navbar.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-navs-tabs.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-navs-tabs.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-notifications.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-notifications.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-popovers-tooltips.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-popovers-tooltips.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-progress-bars.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-progress-bars.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/component-spinners.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\component-spinners.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/dashboard-analytics.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\dashboard-analytics.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/dashboard-digital-marketing.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\dashboard-digital-marketing.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/dashboard-eCommerce.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\dashboard-eCommerce.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/dashboard-human-resources.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\dashboard-human-resources.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/ecommerce-add-new-products.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\ecommerce-add-new-products.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/ecommerce-orders.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\ecommerce-orders.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/ecommerce-products-details.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\ecommerce-products-details.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/ecommerce-products.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\ecommerce-products.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/errors-404-error.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\errors-404-error.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/errors-500-error.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\errors-500-error.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/errors-coming-soon.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\errors-coming-soon.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/form-date-time-pickes.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\form-date-time-pickes.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/form-elements.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\form-elements.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/form-file-upload.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\form-file-upload.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/form-input-group.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\form-input-group.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/form-layouts.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\form-layouts.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/form-select2.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\form-select2.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/form-text-editor.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\form-text-editor.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/form-validations.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\form-validations.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/form-wizard.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\form-wizard.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/index.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\index.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/pricing-table.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\pricing-table.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/timeline.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\timeline.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/user-profile.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\user-profile.html
+Content Type: text/html
+
+Uri: https://codervent.com/rukada/demo/horizontal/widgets.html
+File Name: C:\Downloaded Web Sites\codervent.com\rukada\demo\horizontal\widgets.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap
+File Name: C:\Downloaded Web Sites\codervent.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:600,700,400,300
+File Name: C:\Downloaded Web Sites\codervent.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\codervent.com\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v139/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\codervent.com\s\materialicons\v139\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\codervent.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\codervent.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\codervent.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\codervent.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\codervent.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\codervent.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
