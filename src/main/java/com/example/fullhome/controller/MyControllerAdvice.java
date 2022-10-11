@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import javax.servlet.http.HttpServletRequest;
 
 @ControllerAdvice
-public class MyController {
-    @ModelAttribute(name = "currentEmployee")
-    public User currentEmployee(@AuthenticationPrincipal CurrentUser currentUser) {
+public class MyControllerAdvice {
+    @ModelAttribute(name = "currentUser")
+    public User currentUser(@AuthenticationPrincipal CurrentUser currentUser) {
         if (currentUser != null) {
             return currentUser.getUser();
         }

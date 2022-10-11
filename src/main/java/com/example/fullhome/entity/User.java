@@ -36,6 +36,8 @@ public class User {
     @Enumerated(value = EnumType.STRING)
     private Role role;
 
+    private String picUrl;
+
     @CreationTimestamp
     private Instant createdAt;
 
