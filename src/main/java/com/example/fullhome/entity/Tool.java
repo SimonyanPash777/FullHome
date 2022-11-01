@@ -18,7 +18,7 @@ public class Tool {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
-    private String name;
+    private String title;
     private String summary;
     private String description;
     private double price;

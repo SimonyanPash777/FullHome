@@ -13,9 +13,9 @@ import javax.persistence.*;
 @Builder
 @Entity
 public class Category {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
     private String title;
+    private String description;
 }

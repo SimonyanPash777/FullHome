@@ -48,7 +48,7 @@ public class UserService {
             file.transferTo(newFile);
             user.setPicUrl(fileName);
         }
-        user.setPassword(passwordEncoder.encode(user.getPassword()));
+//        user.setPassword(passwordEncoder.encode(user.getPassword()));
 
         userRepository.save(user);
 

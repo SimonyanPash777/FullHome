@@ -3,7 +3,7 @@ package com.example.fullhome;
 import com.example.fullhome.entity.Role;
 import com.example.fullhome.entity.User;
 import com.example.fullhome.repository.UserRepository;
-import org.springframework.beans.factory.annotation.Autowired;
+import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,14 +11,15 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
+
 import java.util.Optional;
 
 @SpringBootApplication
 @EnableAsync
+@RequiredArgsConstructor
 public class FullHomeApplication implements CommandLineRunner {
 
-    @Autowired
-    private UserRepository userRepository;
+    private final UserRepository userRepository;
     public static void main(String[] args) {
         SpringApplication.run(FullHomeApplication.class, args);
     }
