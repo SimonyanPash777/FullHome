@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org/">
+<head>
+    <title>Full Home</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800" rel="stylesheet">
+
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/animate.css">
+    <link rel="stylesheet" href="/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/cssAdmin/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="/cssAdmin/jquery.timepicker.css">
+    <link rel="icon" type="img/png" href="/img/logo.png">
+
+
+    <link rel="stylesheet" href="/fonts/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="/fonts/fontawesome/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="/fonts/flaticon/font/flaticon.css">
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<th:block th:fragment="header">
+    <header role="banner">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" href="/"><img src="/img/logo.png" width=35%></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05"
+                        aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarsExample05">
+                    <ul class="navbar-nav mr-auto pl-lg-5 pl-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="/">Home</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="/user/services" id="dropdown04"
+                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown04">
+                                <a class="dropdown-item" href="/user/services">Metal Roofing</a>
+                                <a class="dropdown-item" href="/user/services">General Contracting</a>
+                                <a class="dropdown-item" href="/user/services">House Renovation</a>
+                                <a class="dropdown-item" href="/user/services">Laminate Flooring</a>
+                                <a class="dropdown-item" href="/user/services">Construction Consultant</a>
+                            </div>
+
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/tools">Tools</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/about">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/contact">Contact</a>
+                        </li>
+                    </ul>
+                    <th:block th:if="${currentUser != null}">
+                        <div>
+                            <img th:if="${currentUser.picUrl != null}" class="nav-item dropdown" style="height: 72px; width: 87px"
+                                 th:src="@{/users/getImage(fileName=${currentUser.picUrl})}">
+
+                            <img th:if="${currentUser.picUrl == null}" class="nav-item dropdown" style="height: 72px; width: 87px"
+                                 src="/img/defaultAvatar.png">
+
+                            <a class="nav-link dropdown-toggle" id="dropdown004" data-toggle="dropdown"
+                               aria-haspopup="true"
+                               aria-expanded="false">Profile</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown04">
+                                <a class="dropdown-item" href="/logout">Log Out</a>
+                            </div>
+                        </div>
+                    </th:block>
+                    <th:block th:if="${currentUser == null}">
+                        <ul class="navbar-nav ml-auto cta-btn">
+                            <li th:if="${user == null}" class="nav-item">
+                                <a class="nav-link" href="/loginPage">
+                                    Sign <br> In
+                                </a>
+                            </li>
+                        </ul>
+                    </th:block>
+
+                </div>
+            </div>
+        </nav>
+    </header>
+</th:block>
+<!-- END header -->
+</body>
+</html>

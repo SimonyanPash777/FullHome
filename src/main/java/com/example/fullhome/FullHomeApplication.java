@@ -39,7 +39,7 @@ public class FullHomeApplication implements CommandLineRunner {
                     .surname("admin")
                     .email("admin@mail.com")
                     .phone("+37477344604")
-                    .picUrl("/static/img/images/avatars/avatar-1.png")
+                    .picUrl("/static/img/avatars/avatar-1.png")
                     .password(passwordEncoder().encode("admin"))
                     .role(Role.ADMIN)
                     .build());

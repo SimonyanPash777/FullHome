@@ -2,14 +2,15 @@ package com.example.fullhome.config;
 
 import com.example.fullhome.entity.Role;
 import lombok.RequiredArgsConstructor;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
-import org.springframework.security.config.annotation.web.builders.WebSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
+@Configuration
 @EnableWebSecurity
 @RequiredArgsConstructor
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
@@ -23,8 +24,6 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .csrf().disable()
                 .formLogin()
                 .loginPage("/loginPage")
-                .usernameParameter("username")
-                .passwordParameter("password")
                 .loginProcessingUrl("/login")
                 .failureUrl("/loginPage?error=true")
                 .defaultSuccessUrl("/loginSuccess")
@@ -33,24 +32,17 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .logoutSuccessUrl("/")
                 .and()
                 .authorizeRequests()
-                .antMatchers("/resources/**", "/static/**", "/css/**", "/js/**", "/").permitAll()
+                .antMatchers("/resources/**", "/static/**", "/css/**","/admin/**", "/js/**", "/img/**", "/").permitAll()
                 .antMatchers("/admin").hasAuthority(Role.ADMIN.name())
+                .antMatchers("/user/services/*").authenticated()
+                .antMatchers("/user/works/*").authenticated()
+                .antMatchers("/tools/*").authenticated()
                 .anyRequest()
                 .permitAll()
                 .and()
                 .exceptionHandling().accessDeniedPage("/accessDenied");
     }
 
-    @Override
-    public void configure(WebSecurity webSecurity) {
-        webSecurity.ignoring().antMatchers("/resources/**");
-        webSecurity.ignoring().antMatchers("/static/**");
-        webSecurity.ignoring().antMatchers("/css/**");
-        webSecurity.ignoring().antMatchers("/scss/**");
-        webSecurity.ignoring().antMatchers("/fonts/**");
-        webSecurity.ignoring().antMatchers("/img/**");
-        webSecurity.ignoring().antMatchers("/js/**");
-    }
 
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {

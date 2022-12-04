@@ -15,10 +15,43 @@ public class MainController {
     public String MainPage() {
         return "index";
     }
+    @GetMapping("/about")
+    public String AboutPage() {
+        return "about";
+    }
+    @GetMapping("/contact")
+    public String ContactPage() {
+        return "contact";
+    }
+    @GetMapping("/user/services")
+    public String ServicesPage() {
+        return "services";
+    }
+    @GetMapping("/tools")
+    public String ToolsPage() {
+        return "tools";
+    }
+    @GetMapping("/tools/single")
+    public String ToolsSinglePage() {
+        return "tools-single";
+    }
+    @GetMapping("/user/works")
+    public String WorksPage() {
+        return "works";
+    }
+    @GetMapping("/user/works/single")
+    public String WorksSinglePage() {
+        return "works-single";
+    }
 
     @GetMapping("/accessDenied")
     public String accessDenied() {
         return "accessDenied";
+    }
+
+    @GetMapping("/register")
+    public String registerController(){
+        return "register";
     }
 
     @GetMapping("/loginSuccess")

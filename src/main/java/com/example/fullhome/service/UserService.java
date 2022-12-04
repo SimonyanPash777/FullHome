@@ -1,5 +1,6 @@
 package com.example.fullhome.service;
 
+import com.example.fullhome.entity.Role;
 import com.example.fullhome.entity.User;
 import com.example.fullhome.repository.UserRepository;
 import com.example.fullhome.util.DateUtil;
@@ -48,7 +49,8 @@ public class UserService {
             file.transferTo(newFile);
             user.setPicUrl(fileName);
         }
-//        user.setPassword(passwordEncoder.encode(user.getPassword()));
+        user.setRole(Role.USER);
+        user.setPassword(passwordEncoder.encode(user.getPassword()));
 
         userRepository.save(user);
 
