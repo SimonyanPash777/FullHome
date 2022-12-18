@@ -7,6 +7,7 @@ import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 import java.time.Instant;
+import java.time.LocalDateTime;
 
 @Data
 @AllArgsConstructor
@@ -21,7 +22,8 @@ public class Tool {
     private String title;
     private String summary;
     private String description;
+    private String image;
     private double price;
-    private Instant createdAt;
+    private LocalDateTime createdAt;
     private int count;
 }

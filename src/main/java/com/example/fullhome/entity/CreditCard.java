@@ -6,13 +6,14 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
+import java.util.Date;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
 @Entity
-@Table (name = "creditcard")
+@Table (name = "credit_card")
 public class CreditCard {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -21,6 +22,8 @@ public class CreditCard {
     private String expiresAt;
     private int cardNumber;
     private int cvv;
+
     @ManyToOne
-    private User user;
+    @JoinColumn(name = "user_id")
+    private User user_id;
 }
